@@ -117,7 +117,7 @@ npm start
 **Contract Address:**
 
 ```
-CCUUGDMA4LBFWIDXHSM32DL37GOFJDIFVVVZDEJK4FDRUTMIAVIE6RKJ
+CBIG7VTLEOQ6I3AM2AJPHGC57N4TXOXLHA3HRLESMT5IFEHHQQHRUSWZ
 ```
 
 **Network:**
@@ -126,19 +126,42 @@ CCUUGDMA4LBFWIDXHSM32DL37GOFJDIFVVVZDEJK4FDRUTMIAVIE6RKJ
 Testnet
 
 ---
+## 🧪 Testing
+
+Run contract tests:
+
+cargo test
+
+Ensure output shows:
+
+running 3 tests
+test ... ok
+test ... ok
+test ... ok
+
 
 ## 📸 Screenshots
 
 
-<img width="1905" height="990" alt="Screenshot 2026-03-20 142038" src="https://github.com/user-attachments/assets/e86e34ea-b832-41e6-9754-aef257009129" />
+<img width="1911" height="1028" alt="Screenshot 2026-03-21 192039" src="https://github.com/user-attachments/assets/15acb6b0-0047-459d-8528-5c5782112baf" />
+
+<img width="1887" height="992" alt="Screenshot 2026-03-26 153244" src="https://github.com/user-attachments/assets/149efc41-9d97-495c-bf5a-063f795cb31d" />
 
 
 
 <img width="1902" height="1029" alt="Screenshot 2026-03-20 153116" src="https://github.com/user-attachments/assets/d5d58fce-4853-4b3c-8bd5-59be45760cdd" />
+<img width="876" height="168" alt="Screenshot 2026-03-27 195948" src="https://github.com/user-attachments/assets/8e144f6b-63ac-4c45-a4f3-8a57b28b4ed0" />
+
 
 
 
 ---
+## 🌐 Live Demo
+https://decentralised-marketplace-bp9whn6lr-nistha-verses-projects.vercel.app/
+## 🎥 Demo Video
+https://drive.google.com/file/d/1y4zxPOq4OoF0J1WXxlHHlypqkHooEDsn/view?usp=sharing
+
+
 
 ## 📁 Project Structure
 
@@ -160,13 +183,6 @@ Testnet
 
 ---
 
-## 🧪 Testing
-
-```bash
-cargo test
-```
-
----
 
 ## 🌱 Future Improvements
 
